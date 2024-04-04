@@ -23,4 +23,4 @@ This repository contains a simple Pong game implemented in HTML/CSS/JavaScript a
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/barandev/Pong-Game-Template)](https://github.com/barandev/Pong-Game-Template/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/barandev/Pong-Game-Template)](https://github.com/barandev/Pong-Game-Template/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/barandev/Pong-Game-Template)](https://github.com/barandev/Pong-Game-Template/network)
-
+### Created With [Lazy.AI](https://www.getlazy.ai)
